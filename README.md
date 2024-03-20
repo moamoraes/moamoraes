@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/moa-moraes/](https://www.linkedin.com/in/moa-moraes/)
 
-- ⚡ Fun fact **I'm part time guitarrist, music is one of my biggest love. I share some of it in https://instagram.com/moaguitar**
+- ⚡ Fun fact: **I'm part time guitarrist, music is one of my biggest love. I share some of it in https://instagram.com/moaguitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
