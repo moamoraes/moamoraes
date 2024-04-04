@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/moamoraes/](https://github.com/moamoraes/)
 
-- 💬 Ask me about **React, Node.js, C#, WebApis**
+- 💬 Ask me about **React, Node.js, javascrypt, C#, WebApis, relational database and non relational database**
 
 - 📫 How to reach me **moacir.moraes@emoretech.com.br**
 
