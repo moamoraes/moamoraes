@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Moa Moraes</h2>
 
-I've been coding for the last 10 years, developing dozens of applications, mostly in .NET and Angular.<br>In the past two years, I've also learned how to build React applications from scratch.<br><br>Currently, I'm working on my own SaaS application, applying my experience in software architecture, scalability, clean code, and best practices. Developing this project has taught me a lot more about every aspect of building a solid foundation for an application.<br><br>I'm also a part-time guitarist—music is one of my biggest passions. I share some of it on <a href="https://instagram.com/moaguitar">Instagram</a>.
+I've been coding for the last 10 years, developing dozens of applications, mostly in .NET and Angular.<br>In the past two years, I've also learned how to build React applications from scratch.<br><br>Currently, I'm working on my own SaaS application, <a href="https://kalenda.com.br/">Kalenda</a>, applying my experience in software architecture, scalability, clean code, and best practices. Developing this project has taught me a lot more about every aspect of building a solid foundation for an application.<br><br>I'm also a part-time guitarist—music is one of my biggest passions. I share some of it on <a href="https://instagram.com/moaguitar">Instagram</a>.
 
 <h4>Languages</h4>
 
